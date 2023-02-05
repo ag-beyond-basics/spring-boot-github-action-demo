@@ -6,4 +6,4 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       -name: Echo a String
-       run: echo "This is my first Git Hub Action flow!"
+       run: echo "This is my first Git Hub Action flow"
